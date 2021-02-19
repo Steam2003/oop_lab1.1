@@ -1,0 +1,2 @@
+D:\Patiuk\ООП\Лаби\lab1.1\lab1.1\Debug\lab1.1.exe
+D:\Patiuk\ООП\Лаби\lab1.1\lab1.1\Debug\lab1.1.pdb
